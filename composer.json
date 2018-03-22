@@ -1,0 +1,8 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Neha\\": "src/"
+    }
+  },
+  "name": "neha/testpkg"
+}
